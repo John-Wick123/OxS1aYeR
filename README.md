@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OxS1aYeR
+- 👋 Hi, I’m @John-Wick123
 - 👀 I’m interested in Java, Artificial Intelligence
 - 🌱 I’m currently learning Java
 - Email: barsadj6@gmail.com
